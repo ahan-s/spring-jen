@@ -19,6 +19,7 @@ public class SpringJenApplication {
 	
 	public static void main(String[] args) {
 		logger.info("Application Executed...");
+		logger.info("Application Executed 2nd commit...");
 		SpringApplication.run(SpringJenApplication.class, args);
 	}
 
